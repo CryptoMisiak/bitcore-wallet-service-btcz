@@ -4719,3 +4719,14 @@ info New testnet block: 00000002570e8bf32d152b924bb9f3bffed833bf2c2832aafaf0a139
 info Connected to Insight (btcz/livenet) @ https://bitcoinz.ph:443 
 info New testnet block: 00000003c24034e4b8349590a11521c335044799478ab6ade55b7e1007446156 
 info New livenet block: 00000003c24034e4b8349590a11521c335044799478ab6ade55b7e1007446156 
+info Using message broker server at http://localhost:3380 
+info Using locker server:localhost:3231 
+Connection established to mongoDB
+Blockchain monitor started
+info Connected to Insight (btcz/testnet) @ https://bitcoinz.ph:443 
+info Connected to Insight (btcz/livenet) @ https://bitcoinz.ph:443 
+info Connected to Insight (bch/livenet) @ https://bch-insight.bitpay.com 
+info New livenet block: 00000001e384db528220e7e93545690e547e47811cc14261fecf36e44b33a67d 
+info New testnet block: 00000001e384db528220e7e93545690e547e47811cc14261fecf36e44b33a67d 
+info New livenet block: 00000005f5c676db7cbf45cc5dedb00abc8d29dedc554ad4fb296757e59fc9c3 
+info New testnet block: 00000005f5c676db7cbf45cc5dedb00abc8d29dedc554ad4fb296757e59fc9c3 
