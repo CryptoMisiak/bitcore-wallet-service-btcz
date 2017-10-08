@@ -1,0 +1,119 @@
+module.js:471
+    throw err;
+    ^
+
+Error: Cannot find module 'preconditions'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/messagebroker/messagebroker.js:5:34)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+module.js:471
+    throw err;
+    ^
+
+Error: Cannot find module 'preconditions'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/messagebroker/messagebroker.js:5:34)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3380
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1262:14)
+    at listen (net.js:1298:10)
+    at Server.listen (net.js:1394:5)
+    at Server.listen.Server.attach (/home/hellomoto/bitcore-wallet-service/node_modules/socket.io/lib/index.js:228:9)
+    at new Server (/home/hellomoto/bitcore-wallet-service/node_modules/socket.io/lib/index.js:52:17)
+    at Server (/home/hellomoto/bitcore-wallet-service/node_modules/socket.io/lib/index.js:40:41)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/messagebroker/messagebroker.js:16:14)
+    at Module._compile (module.js:570:32)
+Message broker server listening on port 3380
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3380
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1262:14)
+    at listen (net.js:1298:10)
+    at Server.listen (net.js:1394:5)
+    at Server.listen.Server.attach (/home/hellomoto/bitcore-wallet-service/node_modules/socket.io/lib/index.js:228:9)
+    at new Server (/home/hellomoto/bitcore-wallet-service/node_modules/socket.io/lib/index.js:52:17)
+    at Server (/home/hellomoto/bitcore-wallet-service/node_modules/socket.io/lib/index.js:40:41)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/messagebroker/messagebroker.js:16:14)
+    at Module._compile (module.js:570:32)
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380
+Message broker server listening on port 3380

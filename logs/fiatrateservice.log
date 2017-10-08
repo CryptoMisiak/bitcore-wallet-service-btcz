@@ -1,0 +1,334 @@
+module.js:471
+    throw err;
+    ^
+
+Error: Cannot find module 'lodash'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/lib/fiatrateservice.js:3:9)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+module.js:471
+    throw err;
+    ^
+
+Error: Cannot find module 'lodash'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/lib/fiatrateservice.js:3:9)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+ERR! Unable to connect to the mongoDB. Check the credentials. 
+ERR! MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017] 
+
+/home/hellomoto/bitcore-wallet-service/node_modules/mongodb/lib/mongo_client.js:421
+          throw err
+          ^
+MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/topologies/server.js:336:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/connection/pool.js:280:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/connection/connection.js:187:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+ERR! Unable to connect to the mongoDB. Check the credentials. 
+ERR! MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017] 
+
+/home/hellomoto/bitcore-wallet-service/node_modules/mongodb/lib/mongo_client.js:421
+          throw err
+          ^
+MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/topologies/server.js:336:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/connection/pool.js:280:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/connection/connection.js:187:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+ERR! Unable to connect to the mongoDB. Check the credentials. 
+ERR! MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017] 
+
+/home/hellomoto/bitcore-wallet-service/node_modules/mongodb/lib/mongo_client.js:421
+          throw err
+          ^
+MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/topologies/server.js:336:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/connection/pool.js:280:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/connection/connection.js:187:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+ERR! Unable to connect to the mongoDB. Check the credentials. 
+ERR! MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017] 
+
+/home/hellomoto/bitcore-wallet-service/node_modules/mongodb/lib/mongo_client.js:421
+          throw err
+          ^
+MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/topologies/server.js:336:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/connection/pool.js:280:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/mongodb-core/lib/connection/connection.js:187:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/lib/networks.js:1
+(function (exports, require, module, __filename, __dirname) { \'use strict';
+                                                              ^
+
+SyntaxError: Invalid or unexpected token
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/lib/publickey.js:7:15)
+/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/lib/networks.js:1
+(function (exports, require, module, __filename, __dirname) { \'use strict';
+                                                              ^
+
+SyntaxError: Invalid or unexpected token
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/lib/publickey.js:7:15)
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+WARN Error retrieving data for Bitstamp Error: getaddrinfo ENOTFOUND www.bitstamp.net www.bitstamp.net:443
+WARN Error retrieving data for Bitstamp     at errnoException (dns.js:28:10)
+WARN Error retrieving data for Bitstamp     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+WARN Error retrieving data for Bitstamp  { Error: getaddrinfo ENOTFOUND www.bitstamp.net www.bitstamp.net:443
+WARN Error retrieving data for Bitstamp     at errnoException (dns.js:28:10)
+WARN Error retrieving data for Bitstamp     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+WARN Error retrieving data for Bitstamp   code: 'ENOTFOUND',
+WARN Error retrieving data for Bitstamp   errno: 'ENOTFOUND',
+WARN Error retrieving data for Bitstamp   syscall: 'getaddrinfo',
+WARN Error retrieving data for Bitstamp   hostname: 'www.bitstamp.net',
+WARN Error retrieving data for Bitstamp   host: 'www.bitstamp.net',
+WARN Error retrieving data for Bitstamp   port: 443 }
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/lib/address.js:83
+    keyId1: info.keyId1,
+    ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/index.js:45:19)
+/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/lib/address.js:83
+    keyId1: info.keyId1,
+    ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/index.js:45:19)
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/lib/block/blockheader.js:107
+    nonce: data.nonce
+    ^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/lib/block/block.js:4:19)
+/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/lib/block/blockheader.js:194
+    nonce: this.nonce
+    ^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/node_modules/bitcore-lib/lib/block/block.js:4:19)
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+WARN Error retrieving data for BitPay Error: getaddrinfo ENOTFOUND bitpay.com bitpay.com:443
+WARN Error retrieving data for BitPay     at errnoException (dns.js:28:10)
+WARN Error retrieving data for BitPay     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+WARN Error retrieving data for BitPay  { Error: getaddrinfo ENOTFOUND bitpay.com bitpay.com:443
+WARN Error retrieving data for BitPay     at errnoException (dns.js:28:10)
+WARN Error retrieving data for BitPay     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+WARN Error retrieving data for BitPay   code: 'ENOTFOUND',
+WARN Error retrieving data for BitPay   errno: 'ENOTFOUND',
+WARN Error retrieving data for BitPay   syscall: 'getaddrinfo',
+WARN Error retrieving data for BitPay   hostname: 'bitpay.com',
+WARN Error retrieving data for BitPay   host: 'bitpay.com',
+WARN Error retrieving data for BitPay   port: 443 }
+WARN Error retrieving data for Bitstamp Error: getaddrinfo ENOTFOUND www.bitstamp.net www.bitstamp.net:443
+WARN Error retrieving data for Bitstamp     at errnoException (dns.js:28:10)
+WARN Error retrieving data for Bitstamp     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+WARN Error retrieving data for Bitstamp  { Error: getaddrinfo ENOTFOUND www.bitstamp.net www.bitstamp.net:443
+WARN Error retrieving data for Bitstamp     at errnoException (dns.js:28:10)
+WARN Error retrieving data for Bitstamp     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+WARN Error retrieving data for Bitstamp   code: 'ENOTFOUND',
+WARN Error retrieving data for Bitstamp   errno: 'ENOTFOUND',
+WARN Error retrieving data for Bitstamp   syscall: 'getaddrinfo',
+WARN Error retrieving data for Bitstamp   hostname: 'www.bitstamp.net',
+WARN Error retrieving data for Bitstamp   host: 'www.bitstamp.net',
+WARN Error retrieving data for Bitstamp   port: 443 }
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+WARN Error retrieving data for Bitstamp Error: getaddrinfo ENOTFOUND www.bitstamp.net www.bitstamp.net:443
+WARN Error retrieving data for Bitstamp     at errnoException (dns.js:28:10)
+WARN Error retrieving data for Bitstamp     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+WARN Error retrieving data for Bitstamp  { Error: getaddrinfo ENOTFOUND www.bitstamp.net www.bitstamp.net:443
+WARN Error retrieving data for Bitstamp     at errnoException (dns.js:28:10)
+WARN Error retrieving data for Bitstamp     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+WARN Error retrieving data for Bitstamp   code: 'ENOTFOUND',
+WARN Error retrieving data for Bitstamp   errno: 'ENOTFOUND',
+WARN Error retrieving data for Bitstamp   syscall: 'getaddrinfo',
+WARN Error retrieving data for Bitstamp   hostname: 'www.bitstamp.net',
+WARN Error retrieving data for Bitstamp   host: 'www.bitstamp.net',
+WARN Error retrieving data for Bitstamp   port: 443 }
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
+Connection established to mongoDB
+Fiat rate service started
