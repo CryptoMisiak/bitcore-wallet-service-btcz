@@ -7166,3 +7166,57 @@ Error: Cannot find module 'bitcore-lib'
     at Module.load (module.js:487:32)
     at tryModuleLoad (module.js:446:12)
     at Function.Module._load (module.js:438:3)
+module.js:471
+    throw err;
+    ^
+
+Error: Cannot find module 'bitcore-lib'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/lib/model/address.js:7:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+module.js:471
+    throw err;
+    ^
+
+Error: Cannot find module 'bitcore-lib'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/lib/model/address.js:7:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+module.js:471
+    throw err;
+    ^
+
+Error: Cannot find module 'bitcore-lib'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/lib/model/txproposal_legacy.js:9:15)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+info Listening on port: 3232 
+info Limiting wallet creation per IP: 20 req/h
+info Using locker server:localhost:3231 
+Connection established to mongoDB
+info Using message broker server at http://localhost:3380 
+info BWS running  
+177.230.165.164 2017-10-09T06:07:01.750Z "POST /bws/api/v1/login" 200 38 12.524 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" 4a2a16b1-f878-4ee5-92e4-ed56b0730265 336623c0c06b011a6b7839966c4998b2ba465d8574181c9f3ac8e3424abb0924
+info Client Err: 401 /v1/notifications/?notificationId=015075287241690000&r=87570 {"code":"NOT_AUTHORIZED","message":"Session expired"} 
+177.230.165.164 2017-10-09T06:07:01.752Z "GET /bws/api/v1/notifications/?notificationId=015075287241690000&r=87570" 401 53 4.010 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" - -
