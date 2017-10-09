@@ -136,3 +136,4 @@ Error: listen EADDRINUSE :::3380
     at Module._compile (module.js:570:32)
 Message broker server listening on port 3380
 Message broker server listening on port 3380
+Message broker server listening on port 3380

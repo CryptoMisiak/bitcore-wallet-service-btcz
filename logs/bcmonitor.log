@@ -4806,3 +4806,80 @@ info Connected to Insight (btcz/livenet) @ https://bitcoinz.ph:443
 info Connected to Insight (bch/livenet) @ https://bch-insight.bitpay.com 
 info New testnet block: 00000006e04307a148fb55da5d012d42b9bf0154a7d61b385d6990ad85db92f1 
 info New livenet block: 00000006e04307a148fb55da5d012d42b9bf0154a7d61b385d6990ad85db92f1 
+info New testnet block: 00000000f5140d6ad06b4aa285b68746873753d5bb0e7bc4e545ed832147227d 
+info New livenet block: 00000000f5140d6ad06b4aa285b68746873753d5bb0e7bc4e545ed832147227d 
+info New livenet block: 0000000818dca9bd6d15571ca5b51a05124d2a785781594115b5c1f44c1edc0f 
+info New testnet block: 0000000818dca9bd6d15571ca5b51a05124d2a785781594115b5c1f44c1edc0f 
+info New livenet block: 000000000000000002288bfb74619e2e8d3532b74dad9f0aee1704032559216e 
+info New testnet block: 000000020d5aa8a97411850ce49b264d01afaf4f8a061c69d1b8ea450d319c90 
+info New livenet block: 000000020d5aa8a97411850ce49b264d01afaf4f8a061c69d1b8ea450d319c90 
+info New testnet block: 00000004488b39bfd6e5795060577244ed6a22172f41aafb165b23b8e9f84f83 
+info New livenet block: 00000004488b39bfd6e5795060577244ed6a22172f41aafb165b23b8e9f84f83 
+info New livenet block: 000000019779014f6ec08923a6a1f06280deb6441639aa84c11e3092303bb0ec 
+info New testnet block: 000000019779014f6ec08923a6a1f06280deb6441639aa84c11e3092303bb0ec 
+info New testnet block: 00000005dd40ac02a64271aa7010f939184adcda82c804d12e0d5657f2e90966 
+info New livenet block: 00000005dd40ac02a64271aa7010f939184adcda82c804d12e0d5657f2e90966 
+info New livenet block: 000000039c9dad4c3a5d9104b4c8e7f470ad933140564498ec6063c4d85408b7 
+info New testnet block: 000000039c9dad4c3a5d9104b4c8e7f470ad933140564498ec6063c4d85408b7 
+info New testnet block: 00000003922e2364fa608e962aeb300ba5b4373be6857e31b68af165180f6fc7 
+info New livenet block: 00000003922e2364fa608e962aeb300ba5b4373be6857e31b68af165180f6fc7 
+info New testnet block: 00000000195a678555c79060710ab8a48877ec5c4bccf272ee822cd69659960d 
+info New livenet block: 00000000195a678555c79060710ab8a48877ec5c4bccf272ee822cd69659960d 
+info New livenet block: 0000000557744b961c1f0b5d5279224c8167c56ccfe9e5f9fb8cc3a8045a247c 
+info New testnet block: 0000000557744b961c1f0b5d5279224c8167c56ccfe9e5f9fb8cc3a8045a247c 
+info New livenet block: 00000001ca06136c973e9995ad7922fac2706b46758c188bd5f71377d3fefd95 
+info New testnet block: 00000001ca06136c973e9995ad7922fac2706b46758c188bd5f71377d3fefd95 
+info New testnet block: 00000007ff0113fd534d8a1d5a99bd0dab7faa1bd1efe012b3be7da207dfa145 
+info New livenet block: 00000007ff0113fd534d8a1d5a99bd0dab7faa1bd1efe012b3be7da207dfa145 
+info New livenet block: 00000004feb72e8067953bd4ac82e59812db0bd26ab99b93586e26f3632c5962 
+info New testnet block: 00000004feb72e8067953bd4ac82e59812db0bd26ab99b93586e26f3632c5962 
+info New testnet block: 0000000649e73a2eaa8153825ed7a1b4962dcb1d4815cffccab1302dc00e182e 
+info New livenet block: 0000000649e73a2eaa8153825ed7a1b4962dcb1d4815cffccab1302dc00e182e 
+info New livenet block: 0000000738d1c5c0a783ec506fd11da059462bc70fb01248d7687f36375729a0 
+info New testnet block: 0000000738d1c5c0a783ec506fd11da059462bc70fb01248d7687f36375729a0 
+info New livenet block: 0000000000000000025c8f683af16dae454170c5035bdb8a1415f80e17ae1138 
+info New testnet block: 000000042e2a2ce9e9bcdab20bc5350bf9b76d97ccf50ae7c773b989f0660597 
+info New livenet block: 000000042e2a2ce9e9bcdab20bc5350bf9b76d97ccf50ae7c773b989f0660597 
+info New testnet block: 0000000551421a7cd8a99f77efc8df5a5d26e66a5b364758faf8c3c201334d43 
+info New livenet block: 0000000551421a7cd8a99f77efc8df5a5d26e66a5b364758faf8c3c201334d43 
+info New livenet block: 00000006f3e73747d2bceda3270dd1547364bbf0223f1f7cd2c5ebf61de72600 
+info New testnet block: 00000006f3e73747d2bceda3270dd1547364bbf0223f1f7cd2c5ebf61de72600 
+info New livenet block: 000000000000000000ee39e80a148b47435b6115a5477224ae0d212ce9867227 
+info New livenet block: 00000003fcef7283f34601f3b0739e35f40647ba7b692978d0b3fcf960b50fed 
+info New testnet block: 00000003fcef7283f34601f3b0739e35f40647ba7b692978d0b3fcf960b50fed 
+info Connected to Insight (btcz/testnet) @ https://bitcoinz.ph:443 
+info New testnet block: 00000003ac22915799ec2b542053274ed6f2a677d8b9c273b73a59b3adba967d 
+info New livenet block: 00000003ac22915799ec2b542053274ed6f2a677d8b9c273b73a59b3adba967d 
+info New testnet block: 000000062b49ff55057d676c7f3ab245fdd2a4723f4c9a807be96ef2acedb570 
+info New livenet block: 000000062b49ff55057d676c7f3ab245fdd2a4723f4c9a807be96ef2acedb570 
+info New testnet block: 000000057cae086fde052e6229bcadb47fe21bb0c671dccaa9681f18ef879400 
+info New livenet block: 000000057cae086fde052e6229bcadb47fe21bb0c671dccaa9681f18ef879400 
+info New testnet block: 000000053c8e6f836f249295b93977785f7d3626796deaae56907d6e6c3bc85b 
+info New livenet block: 000000053c8e6f836f249295b93977785f7d3626796deaae56907d6e6c3bc85b 
+info New testnet block: 000000025d26a75555ece4e5d3d62f8d22b962253d62c5acc95cbffef55c4d7c 
+info New livenet block: 000000025d26a75555ece4e5d3d62f8d22b962253d62c5acc95cbffef55c4d7c 
+info New livenet block: 000000081e6c7c38e857a46246ef3ddcff2152af8123daea2fd195c6d724e806 
+info New testnet block: 000000081e6c7c38e857a46246ef3ddcff2152af8123daea2fd195c6d724e806 
+info New livenet block: 00000004cb6b43d6efe661544c2f7b88327776b87cf9d8fff8ea59258d2db22b 
+info New testnet block: 00000004cb6b43d6efe661544c2f7b88327776b87cf9d8fff8ea59258d2db22b 
+info New livenet block: 00000008d95ca959adb829341d384c93804f2d6273d96d151007d7410b121e96 
+info New testnet block: 00000008d95ca959adb829341d384c93804f2d6273d96d151007d7410b121e96 
+info New testnet block: 00000001d1702a660525d7c1737a7a91a9b1571aa8bf8d841c32fc57717b8e85 
+info New livenet block: 00000001d1702a660525d7c1737a7a91a9b1571aa8bf8d841c32fc57717b8e85 
+info New testnet block: 00000005881d1c2e78126b8336686f229febcdca29e8a309b5644925580a2df8 
+info New livenet block: 00000005881d1c2e78126b8336686f229febcdca29e8a309b5644925580a2df8 
+module.js:471
+    throw err;
+    ^
+
+Error: Cannot find module 'bitcore-lib'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/lib/common/utils.js:4:15)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
