@@ -4730,3 +4730,79 @@ info New livenet block: 00000001e384db528220e7e93545690e547e47811cc14261fecf36e4
 info New testnet block: 00000001e384db528220e7e93545690e547e47811cc14261fecf36e44b33a67d 
 info New livenet block: 00000005f5c676db7cbf45cc5dedb00abc8d29dedc554ad4fb296757e59fc9c3 
 info New testnet block: 00000005f5c676db7cbf45cc5dedb00abc8d29dedc554ad4fb296757e59fc9c3 
+info Using message broker server at http://localhost:3380 
+info Using locker server:localhost:3231 
+Connection established to mongoDB
+Blockchain monitor started
+info Connected to Insight (btcz/testnet) @ https://bitcoinz.ph:443 
+info Connected to Insight (btcz/livenet) @ https://bitcoinz.ph:443 
+info Connected to Insight (bch/livenet) @ https://bch-insight.bitpay.com 
+info Using message broker server at http://localhost:3380 
+info Using locker server:localhost:3231 
+Connection established to mongoDB
+Blockchain monitor started
+info Connected to Insight (btcz/testnet) @ https://bitcoinz.ph:443 
+info Connected to Insight (btcz/livenet) @ https://bitcoinz.ph:443 
+info Connected to Insight (bch/livenet) @ https://bch-insight.bitpay.com 
+info New testnet block: 000000032c0bc5bf5a793656a94501617ec5baf8135fd9c7b3549cb2813458a0 
+info New livenet block: 000000032c0bc5bf5a793656a94501617ec5baf8135fd9c7b3549cb2813458a0 
+info New testnet block: 000000048390faf349bba71bed94b294a4aa71f9546a8097a9ca7dfe978fef0f 
+info New livenet block: 000000048390faf349bba71bed94b294a4aa71f9546a8097a9ca7dfe978fef0f 
+info New testnet block: 000000072760d9743c587a51ca147a050886d0f8810c720fa52c45daa694c0d2 
+info New livenet block: 000000072760d9743c587a51ca147a050886d0f8810c720fa52c45daa694c0d2 
+info New testnet block: 000000052f17a2d9c1cc1ba5c6c04c0c97ff8d01a84c6f160446510a1eff570b 
+info New livenet block: 000000052f17a2d9c1cc1ba5c6c04c0c97ff8d01a84c6f160446510a1eff570b 
+info New testnet block: 00000001609840821fade40212007699b6c04285e97da95166b2cee60a26a204 
+info New livenet block: 00000001609840821fade40212007699b6c04285e97da95166b2cee60a26a204 
+info New livenet block: 00000000b6f4366ed393b800ae064d2666e9bb6f69197074fc7b4ac583f96275 
+info New testnet block: 00000000b6f4366ed393b800ae064d2666e9bb6f69197074fc7b4ac583f96275 
+info New livenet block: 00000005e813706b3a99b87eb837838087909f2da593894d375be0ea5031edc0 
+info New testnet block: 00000005e813706b3a99b87eb837838087909f2da593894d375be0ea5031edc0 
+info New testnet block: 000000049a3001f44d0a178eb9004a2b1d4261d05b3218ba8c16e881e933d1be 
+info New livenet block: 000000049a3001f44d0a178eb9004a2b1d4261d05b3218ba8c16e881e933d1be 
+info New testnet block: 000000078e0d4ad6c4409dc116cda34cde0f887abc34d52d492999cbc9d615bd 
+info New livenet block: 000000078e0d4ad6c4409dc116cda34cde0f887abc34d52d492999cbc9d615bd 
+info New testnet block: 00000004e2d98b1d70364a5a84579548ee0b40e9fcf0efa810554cdfe0248d82 
+info New livenet block: 00000004e2d98b1d70364a5a84579548ee0b40e9fcf0efa810554cdfe0248d82 
+info New testnet block: 000000057e1f3f22bfb24a11fc207db655d4c255ee8014971955b3a70a77d8d7 
+info New livenet block: 000000057e1f3f22bfb24a11fc207db655d4c255ee8014971955b3a70a77d8d7 
+info New testnet block: 00000003f090d79428c6e0373ddb9a1fa887e55951041183d21f1c7c1629a6f0 
+info New livenet block: 00000003f090d79428c6e0373ddb9a1fa887e55951041183d21f1c7c1629a6f0 
+info New livenet block: 00000000000000000afb8e0692c9e324b6ad41da9f0b2aa26d199928b069b497 
+info New testnet block: 00000008013f696a9ca1bdd735065e01733f41cc1b8fa9243b2cb65ed3e24f23 
+info New livenet block: 00000008013f696a9ca1bdd735065e01733f41cc1b8fa9243b2cb65ed3e24f23 
+info New testnet block: 000000005509033a75c6424e06a4641035967881e60ab02e423f968992317c38 
+info New livenet block: 000000005509033a75c6424e06a4641035967881e60ab02e423f968992317c38 
+info New testnet block: 00000000f7c8bf1cab1ba072fc2ada200deaf6b3e9304a8c701d74c487920b25 
+info New livenet block: 00000000f7c8bf1cab1ba072fc2ada200deaf6b3e9304a8c701d74c487920b25 
+info New testnet block: 00000006ac270f4d3dbb78cbb09f92507c013e52c93ea7abcb460eb927eec873 
+info New livenet block: 00000006ac270f4d3dbb78cbb09f92507c013e52c93ea7abcb460eb927eec873 
+info New livenet block: 000000081e179e12d8d2ea82ffcc03098cdfa36b70df74fecff2be7b53016d57 
+info New testnet block: 000000081e179e12d8d2ea82ffcc03098cdfa36b70df74fecff2be7b53016d57 
+info New testnet block: 0000000963e98c62d2e93ad88caf1a6034ddfdc937d99a8b944743bdd36fa7fa 
+info New livenet block: 0000000963e98c62d2e93ad88caf1a6034ddfdc937d99a8b944743bdd36fa7fa 
+info New livenet block: 00000005183c749f483020351594d76fd8149eef8b0474f0f9eec978467a4157 
+info New testnet block: 00000005183c749f483020351594d76fd8149eef8b0474f0f9eec978467a4157 
+info New livenet block: 00000005810106cb0b6c86486cab6aa75151e0b6daf7213e4994e393514328f2 
+info New testnet block: 00000005810106cb0b6c86486cab6aa75151e0b6daf7213e4994e393514328f2 
+info New livenet block: 0000000000000000007aeafdb4d44ffdb25fb3396a0b60f72fef74e76d2897cc 
+info New testnet block: 00000007a0ec6854fe752b19955871dcc7f1865df00c605656caca73e81cefd5 
+info New livenet block: 00000007a0ec6854fe752b19955871dcc7f1865df00c605656caca73e81cefd5 
+info Connected to Insight (btcz/testnet) @ https://bitcoinz.ph:443 
+info New livenet block: 00000002a7009a1cd3e4af2b210b358972f041e34a5b88cb901c74fe4b402f54 
+info New testnet block: 00000002a7009a1cd3e4af2b210b358972f041e34a5b88cb901c74fe4b402f54 
+info New livenet block: 000000023e47fca8ee9a75b8c4ca2a68195bf4bf717c924625833329166300c0 
+info New testnet block: 000000023e47fca8ee9a75b8c4ca2a68195bf4bf717c924625833329166300c0 
+info New livenet block: 000000073f0621617159c4c858d9dc616350f1d91c6914b36e38f81ccb7b3197 
+info New testnet block: 000000073f0621617159c4c858d9dc616350f1d91c6914b36e38f81ccb7b3197 
+info New livenet block: 00000008350171668c6ddf143ed7ed0b7c31c25d1e4ce1a05bc3ebdebe4faefb 
+info New testnet block: 00000008350171668c6ddf143ed7ed0b7c31c25d1e4ce1a05bc3ebdebe4faefb 
+info Using message broker server at http://localhost:3380 
+info Using locker server:localhost:3231 
+Connection established to mongoDB
+Blockchain monitor started
+info Connected to Insight (btcz/testnet) @ https://bitcoinz.ph:443 
+info Connected to Insight (btcz/livenet) @ https://bitcoinz.ph:443 
+info Connected to Insight (bch/livenet) @ https://bch-insight.bitpay.com 
+info New testnet block: 00000006e04307a148fb55da5d012d42b9bf0154a7d61b385d6990ad85db92f1 
+info New livenet block: 00000006e04307a148fb55da5d012d42b9bf0154a7d61b385d6990ad85db92f1 

@@ -6916,3 +6916,67 @@ info Client Err: 401 /v1/notifications/?notificationId=015074789740890000&r=8403
 177.230.165.164 2017-10-08T16:13:51.403Z "GET /bws/api/v2/wallets/?includeExtendedInfo=0&twoStep=1&r=42621" 200 - 671.688 "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Mobile/15A372 (140684149420288)" 1b62b1bb-e1ae-4c9c-9e04-597728cbcdae 67f99fa09596788a5c75242dcdcdc0014026a23ab2abceca88f8d95455c408b9
 177.230.165.164 2017-10-08T16:13:51.444Z "GET /bws/api/v2/wallets/?includeExtendedInfo=0&twoStep=1&r=22078" 200 - 722.196 "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Mobile/15A372 (140684149420288)" 1b62b1bb-e1ae-4c9c-9e04-597728cbcdae 67f99fa09596788a5c75242dcdcdc0014026a23ab2abceca88f8d95455c408b9
 177.230.165.164 2017-10-08T16:13:59.816Z "GET /bws/api/v2/wallets/?includeExtendedInfo=0&twoStep=1&r=26184" 200 - 9.601 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0" 3a32b4bd-82d1-44c2-947f-1f2cd0cf1324 5ddf40cc8c6e4f738a9b8569bdd473eb06f00781b4231bfe81653dc5a0bb6d62
+info Listening on port: 3232 
+info Limiting wallet creation per IP: 20 req/h
+info Using locker server:localhost:3231 
+Connection established to mongoDB
+info Using message broker server at http://localhost:3380 
+info BWS running  
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3232
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1262:14)
+    at listen (net.js:1298:10)
+    at Server.listen (net.js:1394:5)
+    at /home/hellomoto/bitcore-wallet-service/bws.js:63:12
+    at /home/hellomoto/bitcore-wallet-service/lib/server.js:156:12
+    at /home/hellomoto/bitcore-wallet-service/node_modules/async/lib/async.js:251:17
+    at /home/hellomoto/bitcore-wallet-service/node_modules/async/lib/async.js:154:25
+    at /home/hellomoto/bitcore-wallet-service/node_modules/async/lib/async.js:248:21
+info Listening on port: 3232 
+info Limiting wallet creation per IP: 20 req/h
+info Using locker server:localhost:3231 
+Connection established to mongoDB
+info Using message broker server at http://localhost:3380 
+info BWS running  
+177.230.165.164 2017-10-09T03:30:29.820Z "GET /bws/api" 404 146 3.843 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+177.230.165.164 2017-10-09T03:30:30.140Z "GET /favicon.ico" 404 150 1.439 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+info Client Err: 400 /v2/wallets/ {"code":"UPGRADE_NEEDED","message":"BWC clients < 1.2 are no longer supported."} 
+177.230.165.164 2017-10-09T04:14:07.044Z "POST /bws/api/v2/wallets/" 400 80 1.966 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+info Client Err: 400 /v2/wallets/ {"code":"UPGRADE_NEEDED","message":"BWC clients < 1.2 are no longer supported."} 
+177.230.165.164 2017-10-09T04:14:09.748Z "POST /bws/api/v2/wallets/" 400 80 0.766 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+info Client Err: 400 /v2/wallets/ {"code":"UPGRADE_NEEDED","message":"BWC clients < 1.2 are no longer supported."} 
+177.230.165.164 2017-10-09T04:14:12.668Z "POST /bws/api/v2/wallets/" 400 80 0.527 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+info Client Err: 400 /v2/wallets/ {"code":"UPGRADE_NEEDED","message":"BWC clients < 1.2 are no longer supported."} 
+177.230.165.164 2017-10-09T04:14:15.337Z "POST /bws/api/v2/wallets/" 400 80 0.273 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+info Listening on port: 3232 
+info Limiting wallet creation per IP: 20 req/h
+info Using locker server:localhost:3231 
+Connection established to mongoDB
+info Using message broker server at http://localhost:3380 
+info BWS running  
+177.230.165.164 2017-10-09T04:17:00.289Z "POST /bws/api/v2/wallets/" 200 51 16.843 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+177.230.165.164 2017-10-09T04:17:00.774Z "POST /bws/api/v2/wallets/4a2a16b1-f878-4ee5-92e4-ed56b0730265/copayers" 200 - 38.260 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+177.230.165.164 2017-10-09T04:17:06.324Z "POST /bws/api/v2/wallets/" 200 51 7.488 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+177.230.165.164 2017-10-09T04:17:06.752Z "POST /bws/api/v2/wallets/f1a90788-e9ab-4f23-a3e6-96432046144f/copayers" 200 - 15.343 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+177.230.165.164 2017-10-09T04:17:33.896Z "GET /bws/api/v2/wallets/?includeExtendedInfo=0&twoStep=1&r=57111" 200 - 31.048 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" 4a2a16b1-f878-4ee5-92e4-ed56b0730265 336623c0c06b011a6b7839966c4998b2ba465d8574181c9f3ac8e3424abb0924
+177.230.165.164 2017-10-09T04:17:34.535Z "POST /bws/api/v1/login" 200 38 7.615 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" 4a2a16b1-f878-4ee5-92e4-ed56b0730265 336623c0c06b011a6b7839966c4998b2ba465d8574181c9f3ac8e3424abb0924
+177.230.165.164 2017-10-09T04:17:34.538Z "POST /bws/api/v1/login" 200 38 6.163 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" f1a90788-e9ab-4f23-a3e6-96432046144f ea9608cabb4574021f130fdb1fee58e5e7d2966631b80fe37c939db92c60c592
+177.230.165.164 2017-10-09T04:17:34.539Z "GET /bws/api/v2/wallets/?includeExtendedInfo=0&twoStep=1&r=90628" 200 - 17.174 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" f1a90788-e9ab-4f23-a3e6-96432046144f ea9608cabb4574021f130fdb1fee58e5e7d2966631b80fe37c939db92c60c592
+WARN Could not compute fee estimation in livenet: 2, 3, 4, 5, 6, 7, 8, 24, 25, 26 blocks. 
+177.230.165.164 2017-10-09T04:17:37.213Z "GET /bws/api/v2/feelevels/?coin=btcz&network=livenet&r=39472" 200 272 126.853 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+WARN Could not compute fee estimation in livenet: 2, 3, 4, 5, 6, 7, 8, 24, 25, 26 blocks. 
+177.230.165.164 2017-10-09T04:17:37.216Z "GET /bws/api/v2/feelevels/?coin=btcz&network=livenet&r=12841" 200 272 115.451 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+177.230.165.164 2017-10-09T04:17:37.885Z "GET /bws/api/v2/feelevels/?coin=btcz&network=testnet&r=99904" 200 272 149.194 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+177.230.165.164 2017-10-09T04:17:37.892Z "GET /bws/api/v2/feelevels/?coin=btcz&network=testnet&r=38707" 200 272 150.943 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" - -
+177.230.165.164 2017-10-09T04:17:38.300Z "GET /bws/api/v1/txhistory/?limit=5&r=43071" 200 2 8.044 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" 4a2a16b1-f878-4ee5-92e4-ed56b0730265 336623c0c06b011a6b7839966c4998b2ba465d8574181c9f3ac8e3424abb0924
+177.230.165.164 2017-10-09T04:17:38.403Z "GET /bws/api/v1/utxos/?r=95880" 200 2 6.159 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" 4a2a16b1-f878-4ee5-92e4-ed56b0730265 336623c0c06b011a6b7839966c4998b2ba465d8574181c9f3ac8e3424abb0924
+177.230.165.164 2017-10-09T04:17:42.991Z "GET /bws/api/v1/utxos/?r=41938" 200 2 2.016 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" 4a2a16b1-f878-4ee5-92e4-ed56b0730265 336623c0c06b011a6b7839966c4998b2ba465d8574181c9f3ac8e3424abb0924
+177.230.165.164 2017-10-09T04:17:44.246Z "POST /bws/api/v1/login" 200 38 15.414 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" 4a2a16b1-f878-4ee5-92e4-ed56b0730265 336623c0c06b011a6b7839966c4998b2ba465d8574181c9f3ac8e3424abb0924
+177.230.165.164 2017-10-09T04:17:44.248Z "GET /bws/api/v2/wallets/?includeExtendedInfo=0&twoStep=1&r=66838" 200 - 27.741 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" 4a2a16b1-f878-4ee5-92e4-ed56b0730265 336623c0c06b011a6b7839966c4998b2ba465d8574181c9f3ac8e3424abb0924
+177.230.165.164 2017-10-09T04:17:44.248Z "GET /bws/api/v2/wallets/?includeExtendedInfo=0&twoStep=1&r=76768" 200 - 30.190 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" f1a90788-e9ab-4f23-a3e6-96432046144f ea9608cabb4574021f130fdb1fee58e5e7d2966631b80fe37c939db92c60c592
+177.230.165.164 2017-10-09T04:17:44.629Z "POST /bws/api/v1/login" 200 38 3.094 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38" f1a90788-e9ab-4f23-a3e6-96432046144f ea9608cabb4574021f130fdb1fee58e5e7d2966631b80fe37c939db92c60c592

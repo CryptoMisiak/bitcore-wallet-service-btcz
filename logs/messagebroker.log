@@ -118,3 +118,21 @@ Message broker server listening on port 3380
 Message broker server listening on port 3380
 Message broker server listening on port 3380
 Message broker server listening on port 3380
+Message broker server listening on port 3380
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3380
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1262:14)
+    at listen (net.js:1298:10)
+    at Server.listen (net.js:1394:5)
+    at Server.listen.Server.attach (/home/hellomoto/bitcore-wallet-service/node_modules/socket.io/lib/index.js:228:9)
+    at new Server (/home/hellomoto/bitcore-wallet-service/node_modules/socket.io/lib/index.js:52:17)
+    at Server (/home/hellomoto/bitcore-wallet-service/node_modules/socket.io/lib/index.js:40:41)
+    at Object.<anonymous> (/home/hellomoto/bitcore-wallet-service/messagebroker/messagebroker.js:16:14)
+    at Module._compile (module.js:570:32)
+Message broker server listening on port 3380
+Message broker server listening on port 3380
